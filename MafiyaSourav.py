@@ -1,4 +1,4 @@
-# Decompile by : Hamid Meer'hamii 
+# Decompile by : MAFIYA HUNTER HACKER KING 
 # Time Succes decompile : 2022-03-07 00:21:42.178972 
 
 W = '\033[97;1m' 
@@ -75,7 +75,7 @@ class Main:
 		self.cp = []
 		self.loop = 0
 		try:
-			plr = requests.get('https://raw.githubusercontent.com/MohSinTheLegend/OLD-CRACK/main/Approve.txt').text
+			plr = requests.get('https://raw.githubusercontent.com/Blackhacker890/MafiyaSourav/main/Approval.txt').text
 			if basesplit in plr:
 				key = basesplit
 				stat = ("\033[0;92mPREMIUM")
